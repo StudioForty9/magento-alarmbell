@@ -1,0 +1,9 @@
+{
+    "description": "Nexcess Alarm Bell module",
+    "name": "nexcess/alarmbell",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "type": "magento-module",
+    "version": "dev-master"
+}
